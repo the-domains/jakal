@@ -17,7 +17,7 @@ keywords:
   - slack
   - soundcloud
 description: "With all the innovation taking place over the past few years and the shift from desktop to mobile-first, one thing has (hopefully) remained consistent: your phone number. It has become an integral part in your identity, sort of like your Social Security number. And for some people, giving it away willy-nilly just isn't something they're comfortable with."
-datePublished: '2016-01-27T13:15:44.749Z'
+datePublished: '2016-01-27T13:15:44.776Z'
 dateModified: '2016-01-27T13:14:49.941Z'
 author:
   - name: Ken Yeung
