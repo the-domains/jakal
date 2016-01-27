@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Ken Yeung
-    url: 'http://venturebeat.com/author/kenyeung/'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://venturebeat.com'
-  name: VentureBeat
-  favicon: 'http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/img/favicon.ico'
-  domain: venturebeat.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://venturebeat.com/2015/10/08/burner-integrates-its-disposable-phone-numbers-with-evernote-slack-dropbox-and-soundcloud/'
+inLanguage: en
+starred: false
 keywords:
   - burner
   - phone
@@ -21,17 +17,23 @@ keywords:
   - slack
   - soundcloud
 description: "With all the innovation taking place over the past few years and the shift from desktop to mobile-first, one thing has (hopefully) remained consistent: your phone number. It has become an integral part in your identity, sort of like your Social Security number. And for some people, giving it away willy-nilly just isn't something they're comfortable with."
-inLanguage: en
+datePublished: '2016-01-27T13:15:44.749Z'
+dateModified: '2016-01-27T13:14:49.941Z'
+author:
+  - name: Ken Yeung
+    url: 'http://venturebeat.com/author/kenyeung/'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://venturebeat.com/2015/10/08/burner-integrates-its-disposable-phone-numbers-with-evernote-slack-dropbox-and-soundcloud/'
 title: 'Burner integrates its disposable phone numbers with Evernote, Slack, Dropbox, and SoundCloud'
-datePublished: '2016-01-23T02:41:03.999Z'
-dateModified: '2016-01-23T02:26:41.171Z'
 sourcePath: _posts/2016-01-23-burner-integrates-its-disposable-phone-numbers-with-evernote.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: VentureBeat
+  domain: venturebeat.com
+  url: 'http://venturebeat.com'
+  favicon: 'http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/img/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
